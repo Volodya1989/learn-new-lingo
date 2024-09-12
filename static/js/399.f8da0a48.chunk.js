@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklearn_lingo=self.webpackChunklearn_lingo||[]).push([[399],{5399:function(n,e,r){r.r(e),r.d(e,{default:function(){return t}});var i=r(184),t=function(){return(0,i.jsx)("div",{children:(0,i.jsx)("h4",{children:"Registration"})})}}}]);
+//# sourceMappingURL=399.f8da0a48.chunk.js.map

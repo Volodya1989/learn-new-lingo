@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/559.a39462f6.chunk.js","mappings":"yKAOA,EAPc,WACZ,OACEA,EAAAA,EAAAA,KAAA,OAAAC,UACED,EAAAA,EAAAA,KAAA,MAAAC,SAAI,WAGV,C","sources":["components/Login/Login.jsx"],"sourcesContent":["const Login = () => {\n  return (\n    <div>\n      <h4>Login</h4>\n    </div>\n  );\n};\nexport default Login;\n"],"names":["_jsx","children"],"sourceRoot":""}
